@@ -4,3 +4,5 @@ The basic appliances like fan and light can be automated so as to turn on when a
 
 - An automated fan which triggers under 3 conditions ; 1)Human presence 2)Temperature variations 3)External IR remote
 - ATMEGA 32 Microcontroller
+
+![BlkDgrm](https://user-images.githubusercontent.com/91025454/134064733-49700821-09bb-42b9-a433-2814ab1d7056.JPG)
