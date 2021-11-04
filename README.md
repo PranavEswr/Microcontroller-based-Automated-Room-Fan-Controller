@@ -1,4 +1,4 @@
-# Microcontroller based Atomated Room Fan Controller
+# Microcontroller based Automated Room Fan Controller
 
 The basic appliances like fan and light can be automated so as to turn on when a person enters the room and to turn it off when a person leaves the room. The fan's speed will be  controlled according to the temperature of the surrounding too and thus reducing the energy conserved by it significantly and the person can just seat back and relax without having to do a thing.
 
