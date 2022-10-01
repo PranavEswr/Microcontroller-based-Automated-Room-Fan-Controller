@@ -10,3 +10,4 @@ designed in this work was performed very well, whenever somebody entered the roo
 be classified as automatic control. Future work can be extended to control certain devices such as A/C and other such 
 home appliances etc
 ![BlkDgrm](https://user-images.githubusercontent.com/91025454/134064733-49700821-09bb-42b9-a433-2814ab1d7056.JPG)
+![Capture](https://user-images.githubusercontent.com/91025454/193393567-9b144fd2-c9cf-4f80-9d2a-9cb66623f629.JPG)
